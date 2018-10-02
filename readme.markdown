@@ -41,7 +41,8 @@ Storyline | Brief description of the movie
   "director": "Steven Spielberg",
   "writer": [
     "Michael Crichton",
-    "David Koepp"
+    "David Koepp",
+    "Chico"
   ],
   "actors": [
     "Sam Neill",
